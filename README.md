@@ -7,8 +7,7 @@
 
 
 - **[arXiv'23] NetGPT: Generative Pretrained Transformer for Network Traffic** [paper](https://arxiv.org/abs/2304.09513) [code](https://github.com/ict-net/NetGPT)
-Xuying Meng, **Chungang Lin**, Yequan Wang, Yujun Zhang
-<br />
+Xuying Meng, **Chungang Lin**, Yequan Wang, Yujun Zhang  
 
 - **[arXiv'25] Distillation-Enhanced Clustering Acceleration for Encrypted Traffic Classification** [paper](https://arxiv.org/abs/2508.02282)
 Ziyue Huang, **Chungang Lin**, Weiyao Zhang, Xuying Meng, Yujun Zhang
