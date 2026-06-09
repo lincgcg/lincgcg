@@ -32,9 +32,3 @@
 
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11417162) **[IEEE TCCN'26 SCI-1] Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense**  
   Chao Zha, Tian Liu, **Chungang Lin**, Bing Bai, Ruyun Zhang  
-
-- **[Under IEEE TDSC Major Revision] Is the Data Really Noisy? Rethinking Traffic Filtering for Encrypted Traffic Classification**  
-**Chungang Lin**, Weiyao Zhang, Meng Shen, Yilong Jiang,   Tianyu Zuo, Haitong Luo, Yequan Wang, Xuying Meng, Yujun Zhang  
-
-- **[Under IEEE TDSC Major Revision] A Fine-grained Dual-Encoder Framework With Pre-trained Transformer for Traffic Classification**  
-  **Chungang Lin**, Weiyao Zhang, Yilong Jiang, Tianyu Zuo, Chao Zha, Meng Shen, Xuying Meng, Yujun Zhang
