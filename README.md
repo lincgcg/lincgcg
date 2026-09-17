@@ -12,7 +12,7 @@
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02282)  **[arXiv'25] Distillation-Enhanced Clustering Acceleration for Encrypted Traffic Classification**  
   Ziyue Huang, ***Chungang Lin***, Weiyao Zhang, Xuying Meng, Yujun Zhang  
 
-- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02001) **[arXiv'26] Versatile yet Efficient Network Traffic Analysis: Offloading Network Foundation Model to SmartNIC**  
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02001) **[ISOC NDSS'27] Versatile yet Efficient Network Traffic Analysis: Offloading Network Foundation Model to SmartNIC**  
   ***Chungang Lin***, Xuying Meng, Tianyu Zuo, Weiyao Zhang, Meng Shen, Ruijie Zhao, Guanming Che, Ruiqi Meng, Ziyue Huang, Haitong Luo, Zhiwei Xu, Zhang Yujun  
 
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11658936/) [![code](https://img.shields.io/badge/code-red)](https://github.com/lincgcg/TraCare-ICT) **[IEEE TDSC'26 CCF-A] Is the Data Really Noisy? Rethinking Traffic Filtering for Encrypted Traffic Classification**  
