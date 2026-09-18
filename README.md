@@ -24,7 +24,7 @@
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2601.22494) **[ICASSP'26 CCF-B] Nethira: A Heterogeneity-aware Hierarchical Pre-trained Model for Network Traffic Classification**  
   ***Chungang Lin***, Weiyao Zhang, Haitong Luo, Xuying Meng, Yujun Zhang  
 
-- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://ojs.aaai.org/index.php/AAAI/article/view/40510) **[AAAI'26 CCF-A] SpecDetect: Simple, Fast, and Training-Free Detection of LLM-Generated Text via Spectral Analysis**  
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://ojs.aaai.org/index.php/AAAI/article/view/40510) [![code](https://img.shields.io/badge/code-red)](https://github.com/luohaitong/SpecDetect) **[AAAI'26 CCF-A] SpecDetect: Simple, Fast, and Training-Free Detection of LLM-Generated Text via Spectral Analysis**  
   Haitong Luo, Weiyao Zhang, Suhang Wang, Wenji Zou, ***Chungang Lin***, Xuying Meng, Yujun Zhang  
 
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.03579) **[INFOCOM'26 CCF-A] Heterogeneity-Oblivious Robust Federated Learning**  
