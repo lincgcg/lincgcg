@@ -3,7 +3,7 @@
 - I am ***Chungang Lin***, a PhD candidate at the Institute of Computing Technology, Chinese Academy of Sciences.
 - My research interests mainly include Network Traffic Analysis, Network Foundation Models, and Network Security.
 
-### Selected Publications
+### Publications
 
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02001) [![code](https://img.shields.io/badge/code-red)](https://github.com/lincgcg/Nepco) **[ISOC NDSS 2027], [CCF-A], [CORE-A\*], [All-Positive Review Scores!]**    
   ***"Versatile yet Efficient Network Traffic Analysis: Offloading Network Foundation Model to SmartNIC"***      
