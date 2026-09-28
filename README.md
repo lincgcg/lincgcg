@@ -46,3 +46,8 @@
 - [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02282)  **[arXiv'25]**    
   ***"Distillation-Enhanced Clustering Acceleration for Encrypted Traffic Classification"***  
   Ziyue Huang, ***Chungang Lin***, Weiyao Zhang, Xuying Meng, Yujun Zhang  
+
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2608.25944)  **[arXiv'26]**    
+  ***"Unveiling Spectral Mechanisms in Training-Free LLM Text Detection"***  
+  Haitong Luo, Xuying Meng, Weiyao Zhang, Wenji Zou, Shengfeng Lou, Xuefeng Jiang, ***Chungang Lin***, Yujun Zhang
+
