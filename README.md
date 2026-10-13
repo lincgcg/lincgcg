@@ -37,9 +37,17 @@
   ***"Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense"***  
   Chao Zha, Tian Liu, ***Chungang Lin***, Bing Bai, Ruyun Zhang  
 
+- **[TBA]** **[IEEE CSCloud 2026], [CCF-C], [All-Positive Review Scores!]**    
+  ***"Shortcut in Generalization: Rethinking Evaluation Protocol for Encrypted Traffic Classification"***  
+  Qiming Yu, ***Chungang Lin***, Zhengyi Ma, Zijia Song, Yuliang Lu, Guozheng Yang, Dongzhen Qi
+
+- **[TBA]** **[IEEE CSCloud 2026], [CCF-C], [All-Positive Review Scores!]**    
+  ***"NetCoFi: A Budget-Aware Coarse-Fine Dual-Branch Model for Encrypted Traffic Classification"***  
+  Zhengyi Ma, Qiming Yu, ***Chungang Lin***, Wentao Cui, Zijia Song, Guozheng Yang
+
 ### Highlight Preprint
 
-- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2304.09513) [![code](https://img.shields.io/badge/code-red)](https://github.com/ict-net/NetGPT) **[arXiv'23], [Google Scholar Citations: 137]**  
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2304.09513) [![code](https://img.shields.io/badge/code-red)](https://github.com/ict-net/NetGPT) **[arXiv'23], [Google Scholar Citations: 100+]**  
   ***"NetGPT: Generative Pretrained Transformer for Network Traffic"***  
   Xuying Meng, ***Chungang Lin***, Yequan Wang, Yujun Zhang  
 
