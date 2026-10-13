@@ -5,7 +5,7 @@
 
 ### Publications
 
-- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02001) [![code](https://img.shields.io/badge/code-red)](https://github.com/lincgcg/Nepco) **[ISOC NDSS 2027], [CCF-A], [CORE-A\*], [All-Positive Review Scores!]**    
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2508.02001) [![code](https://img.shields.io/badge/code-red)](https://github.com/lincgcg/Nepco) **[NDSS 2027], [CCF-A], [CORE-A\*], [All-Positive Review Scores!]**    
   ***"Versatile yet Efficient Network Traffic Analysis: Offloading Network Foundation Model to SmartNIC"***      
   ***Chungang Lin***, Xuying Meng, Tianyu Zuo, Weiyao Zhang, Meng Shen, Ruijie Zhao, Guanming Che, Ruiqi Meng, Ziyue Huang, Haitong Luo, Zhiwei Xu, Zhang Yujun  
 
