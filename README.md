@@ -37,11 +37,11 @@
   ***"Sparse Gaussian Markov Modeling for Robust and Trustworthy Unknown Cyber Defense"***  
   Chao Zha, Tian Liu, ***Chungang Lin***, Bing Bai, Ruyun Zhang  
 
-- **[TBA]** **[IEEE CSCloud 2026], [CCF-C], [All-Positive Review Scores!]**    
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2610.17961) **[IEEE CSCloud 2026], [CCF-C], [All-Positive Review Scores!]**    
   ***"Shortcut in Generalization: Rethinking Evaluation Protocol for Encrypted Traffic Classification"***  
   Qiming Yu, ***Chungang Lin***, Zhengyi Ma, Zijia Song, Yuliang Lu, Guozheng Yang, Dongzhen Qi
 
-- **[TBA]** **[IEEE CSCloud 2026], [CCF-C], [All-Positive Review Scores!]**    
+- [![paper](https://img.shields.io/badge/paper-0366d6?style=flat-square)](https://arxiv.org/abs/2610.17978) **[IEEE CSCloud 2026], [CCF-C], [All-Positive Review Scores!]**    
   ***"NetCoFi: A Budget-Aware Coarse-Fine Dual-Branch Model for Encrypted Traffic Classification"***  
   Zhengyi Ma, Qiming Yu, ***Chungang Lin***, Wentao Cui, Zijia Song, Guozheng Yang
 
