@@ -1,4 +1,4 @@
-## Hi there 👋
+## Chungang Lin (林纯钢)
 
 - I am ***Chungang Lin***, a PhD candidate at the Institute of Computing Technology, Chinese Academy of Sciences.
 - My research interests mainly include Network Traffic Analysis, Network Foundation Models, and Network Security.
